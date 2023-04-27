@@ -8,9 +8,9 @@ GluaHelper offre également une fonctionnalité pour créer des modèles d'entit
 Avec GluaHelper, vous pouvez économiser du temps et accélérer votre développement GLua en toute simplicité. Essayez-le dès maintenant et découvrez la différence que cela peut faire dans votre flux de travail.
 
 # Fonctionnalités
-Interface utilisateur simple et conviviale
-Choix en un clic de l'arborescence de l'addon (Addon, Entities, Swep)
-Réduction du temps de développement
+- Interface utilisateur simple et conviviale
+- Choix en un clic de l'arborescence de l'addon (Addon, Entities, Swep)
+- Réduction du temps de développement
 
 # Installation
 Pour installer GluaHelper, téléchargez le .zip de la ressource pour déplacez le programme sur votre bureau. Ensuite lancez le et Enjoy !
@@ -21,5 +21,5 @@ Vous avez des suggestions, avez rencontrés des bugs ? N'hésitez pas a indiquer
 
 # Lien
 Si le contenu vous plaît, n'hésitez pas a me suivre sur Youtube et Github:
-Youtube: https://www.youtube.com/channel/UCkI1tKQUezIfIZ_miXzCLIw
-GitHub: Clique ici
+- Youtube: https://www.youtube.com/channel/UCkI1tKQUezIfIZ_miXzCLIw
+- GitHub: Clique ici
