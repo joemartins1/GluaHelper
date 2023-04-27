@@ -22,4 +22,4 @@ Vous avez des suggestions, avez rencontrés des bugs ? N'hésitez pas a indiquer
 # Lien
 Si le contenu vous plaît, n'hésitez pas a me suivre sur Youtube et Github:
 - Youtube: https://www.youtube.com/channel/UCkI1tKQUezIfIZ_miXzCLIw
-- GitHub: Clique ici
+- GitHub: https://github.com/joemartins1
